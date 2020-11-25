@@ -1,0 +1,48 @@
+{ 
+
+"showFinder": [
+
+	{
+		"name": "Game of Thrones",
+		"description": "Very good", 
+		"platform": "HBO",
+		"rating":9.0 
+	},
+
+
+	{
+		"name": "Scandal",
+		"description": "Good", 
+		"platform": "Hulu",
+		"rating":7.0
+	},
+
+	{
+		"name": "Haunting of Hill House",
+		"description": "Good", 
+		"platform": "Netflix",
+		"rating":8.0
+	},
+
+	{
+		"name": "The West Wing",
+		"description": "Good", 
+		"platform": "Netflix",
+		"rating":8.0 
+	},
+
+	{
+		"name": "Veep",
+		"description": "Good", 
+		"platform": "HBO",
+		"rating":9.0 
+	}
+
+
+
+
+ ], 
+
+	"status": "OK"
+
+} 
