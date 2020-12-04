@@ -6,7 +6,8 @@
 		"name": "Game of Thrones",
 		"description": "Very good", 
 		"platform": "HBO",
-		"rating":9.0 
+		"rating":9.0, 
+		"image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Game_of_Thrones_Season_8.png"
 	},
 
 
@@ -14,28 +15,32 @@
 		"name": "Scandal",
 		"description": "Good", 
 		"platform": "Hulu",
-		"rating":7.0
+		"rating":7.0,
+		"image": "https://upload.wikimedia.org/wikipedia/en/5/54/Scandal_Intertitle.png"
 	},
 
 	{
 		"name": "Haunting of Hill House",
 		"description": "Good", 
 		"platform": "Netflix",
-		"rating":8.0
+		"rating":8.0,
+		"image": "https://upload.wikimedia.org/wikipedia/en/0/04/HauntingOfHillHouse.JPG"
 	},
 
 	{
 		"name": "The West Wing",
 		"description": "Good", 
 		"platform": "Netflix",
-		"rating":8.0 
+		"rating":8.0,
+		"image": "https://upload.wikimedia.org/wikipedia/en/5/56/TheWestWing.JPG"
 	},
 
 	{
 		"name": "Veep",
 		"description": "Good", 
 		"platform": "HBO",
-		"rating":9.0 
+		"rating":9.0,
+		"image": "https://upload.wikimedia.org/wikipedia/en/4/41/Veep_intertitle.png"
 	}
 
 
